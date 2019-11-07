@@ -26,3 +26,19 @@ all of the values in a list. This lets the algorithm run normally.
 
 Because the algorithm will have all of the j values already. So, the time the algorithm takes to work out i and
 j will be halved.
+
+## (e) 
+
+Yes, the algorithm would still be called quadratic. This is becasue the two nested loops are still being used.
+
+## (f) 
+
+O(n log n) [1] 
+
+
+
+
+## References:
+
+[1] "Time Complexity", 2017-06-05,url - https://wiki.python.org/moin/TimeComplexity, 
+	accessed on 07-11-2019
