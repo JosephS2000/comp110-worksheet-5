@@ -35,7 +35,23 @@ Yes, the algorithm would still be called quadratic. This is becasue the two nest
 
 O(n log n) [1] 
 
+## (g)
 
+I will calculate the time complexity of the algorithm:
+
+	O(1) + O(n log n) + O(n) + O(1) 
+This can be boiled down to O(n log n) becasue that is the slowest one
+	O(n log n)
+
+## (h)
+
+The algorithm with the complexity O(n log n) will run faster. This is becasue the other algorithm has a complexity
+of O(n^2) and O(n log n) is faster than O(n^2).
+
+## (i)
+
+The faster the algorithm, the harder it is to make. So, if the programmer doesnt have much time, or the ability, 
+they can use a slower algorithm.
 
 
 ## References:
