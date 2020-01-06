@@ -5,11 +5,7 @@
 
 ## (a)
 
-The task that this algorithm performs is for it to compare the length of two lists (list[i] and list[j]) and the 
-compare the values inside the lists. If the values of one list are not equal, but the length of the two lists are
-equal, the algorithm will return True. If the values are equal and the length of the lists are equal, then the 
-algorithm will return False. The same can be said for if the values of i and j are not equal and the length of 
-the lists are not equal too.
+The task that this algorithm performs is for it to check if there are any duplicated elements in the list. It achieves this by iterating through the list one element at a time using for loops.
 
 ## (b)
 
@@ -50,8 +46,7 @@ of O(n^2) and O(n log n) is faster than O(n^2).
 
 ## (i)
 
-The faster the algorithm, the harder it is to make. So, if the programmer doesnt have much time, or the ability, 
-they can use a slower algorithm.
+The faster the algorithm, the more likley it is that it would take more time and effort to perfect. So, if the programmer doesnt have much time, or the ability, they can use a slower algorithm.
 
 
 ## References:
